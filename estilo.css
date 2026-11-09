@@ -34,7 +34,6 @@ body {
     background-color: #75c5eb;
     padding: 15px;
     text-align: center;
-    box-shadow: 0px 3px 6px #bbbbbb;
 }
 
 .menu ul {
@@ -76,7 +75,6 @@ body {
     padding: 25px;
     margin-bottom: 30px;
     border-radius: 10px;
-    box-shadow: 0px 3px 8px #dddddd;
 }
 
 .apresentacao img {
@@ -100,7 +98,6 @@ body {
     margin: 12px;
     border-top: 5px solid #75c5eb;
     border-radius: 8px;
-    box-shadow: 0px 3px 8px #dddddd;
 }
 
 .conteudo h3 {
@@ -150,7 +147,6 @@ body {
     width: 60%;
     height: 500px;
     border-radius: 8px;
-    object-fit: cover;
 
 }
 
@@ -221,7 +217,6 @@ body {
     margin: 5px;
     border-top: 5px solid #75c5eb;
     border-radius: 10px;
-    box-shadow: 0px 3px 8px #cccccc;
     text-align: center;
 }
 
